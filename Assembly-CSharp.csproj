@@ -71,7 +71,9 @@
     <Compile Include="Assets\Sounds\Scene2Sound3.cs" />
     <Compile Include="Assets\Sounds\Scene3Sound1.cs" />
     <Compile Include="Assets\Sounds\Scene4Sound2.cs" />
+    <Compile Include="Assets\Sounds\Scene5Sound3.cs" />
     <None Include="Assets\laxer tree pkg\README.txt" />
+    <None Include="Assets\Butterfly (Animated)\Butterfly (Animated).txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Virtual reality/2019.4.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
