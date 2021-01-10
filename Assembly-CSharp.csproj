@@ -58,7 +58,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MoveCameraScene1.cs" />
+    <Compile Include="Assets\MovementScene3.cs" />
+    <Compile Include="Assets\MovementScene3Tiger.cs" />
     <Compile Include="Assets\Sounds\ChangeScene.cs" />
+    <Compile Include="Assets\Sounds\ChangeScene2to3.cs" />
+    <Compile Include="Assets\Sounds\ChangeScene3to4.cs" />
+    <Compile Include="Assets\Sounds\Scene3Sound1.cs" />
     <None Include="Assets\laxer tree pkg\README.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
