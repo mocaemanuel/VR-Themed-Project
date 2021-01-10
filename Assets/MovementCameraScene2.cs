@@ -14,7 +14,7 @@ public class MovementCameraScene2 : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (transform.position.z > 1.2)
+        if (transform.position.z < 6)
         {
             transform.position += this.transform.forward * thrust * Time.deltaTime * -1;
         }
